@@ -1,0 +1,164 @@
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('fonts/MyriadProRegular.eot'), url('fonts/MyriadProRegular.otf'), url('fonts/MyriadProRegular.ttf'), url('fonts/MyriadProRegular.woff');
+}
+body {
+    height: auto;
+    width: 751px;
+    margin: 0px 0px 0px 0px;
+}
+
+.div1 {
+    background-color: #2D7053;
+    height: 236px;
+    width: 751px;
+}
+.shapka {
+    float: left;
+}
+#elips {
+    height: 144px;
+    width: 144px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin: 46px 58px 48px 37px;
+      
+} 
+#text1 {
+    height: 131px;
+    width: 134px;
+    margin-top: 52px; 
+    color: #ffffff;
+    font-size: 30px; 
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    font-family: 'MyriadProRegular';
+    }
+.generalchertochki {
+    float: right;
+    padding-top: 83px;
+    padding-right: 44px;
+    height: 71px;
+    width: 87px;
+}
+.chertochki {
+    float: right;
+    height: 15px;
+    width: 87px;
+    background-color: #ffffff;
+    border-radius: 15px;    
+    margin-bottom: 15px;    
+}
+.div2 {
+    height: 466px;
+    width: 751px;
+    background: url(./0325115cfca2f08bd19529e1d4a4396a@1X.png), rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+}
+
+.knopka {
+    background-color: rgba(203, 146, 35, 1);
+    height: 77px;
+    width: 344px;
+    border: none;
+    margin: 343px 213px 25px 195px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: 'MyriadProRegular';
+}
+.div3 {
+    background-color: #ffffff;
+    font-family: 'MyriadProRegular';
+}
+#foto {
+    width: 247px;
+    height: 247px;
+    margin-top: 94px;
+    margin-left: 36px;
+    border-radius: 50%;
+    background-image: url(./154-9254@1X.png);
+}
+#imya {
+    size: 210px 27px;
+    margin-top: 155px;
+    margin-left: 75px;
+    font-size: 36px;
+}
+.div3a {
+    float: left;
+}
+#profesiya {
+    width: 245px;
+    height: 50px;
+    font-size: 24px;
+    margin-left: 73px;
+    margin-top: 29px;
+}
+#predstavlenie {
+    width: 590px;
+    height: 166px;
+    font-size: 24px;
+    margin-top: 60px;
+    margin-left: 36px;
+}
+#prichiny {
+    height: 32px;
+    width: 545px;
+    font-size: 36px;
+    margin-top: 46px;
+    margin-left: 36px;
+    white-space: nowrap;
+}
+#spisok {
+    height: 190px;
+    width: 256px;
+    font-size: 24px;
+    margin-top: 43px;
+    margin-left: 36px;
+    white-space: nowrap;       
+}
+ul {
+    padding: 0px;
+    margin: 0px 0px 0px 15px;
+}
+li {
+    list-style-type: "- ";
+}
+#knopka2 {
+    margin-top: 42px;
+    margin-bottom: 47px;
+}
+footer {
+    background-color: rgba(136, 136, 136, 1);
+    width: 752px;
+    height: 156px;    
+    color: #FFFFFF;
+}
+#krug {
+    background-color: rgba(255, 255, 255, 1);
+    height: 99px;
+    width: 99px;
+    border-radius: 50%;
+    margin-top: 29px;
+    margin-left: 44px;
+    float: left;
+}
+address {
+    font-style: normal;
+    font-size: 18px;
+    margin-top: 104px;
+    margin-left: 183px;
+    float: left;
+}
+.kontakt {
+    color: #ffffff;
+    text-decoration: none;
+    float: right;
+    margin-right: 45px;
+}
+#tel {
+    margin-top: 58px;
+    margin-bottom: 27px;
+}
